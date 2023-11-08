@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>N1CCK Date Math package</Title>
+        <Authors>Nick Booth N1CCK</Authors>
+        <Description>Date math is obnoxious, so here's a helper class to figure out reporting periods based on a supplied date.</Description>
+    </PropertyGroup>
+
+</Project>
